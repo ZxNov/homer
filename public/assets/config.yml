@@ -71,8 +71,8 @@ links:
 # First level array represent a group.
 # Leave only a "items" key if not using group (group name, icon & tagstyle are optional, section separation will not be displayed).
 services:
-  - name: "Applications"
-    icon: "fas fa-cloud"
+  - name: "Panel管理"
+    icon: "fa-solid fa-solar-panel"
     items:
       - name: "Get started"
         icon: "fa-solid fa-download"
