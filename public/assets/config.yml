@@ -43,11 +43,11 @@ colors:
     link: "#3273dc"
     link-hover: "#ffdd57"
 # Optional message
-#message:
-#  style: "is-dark" # See https://bulma.io/documentation/components/message/#colors for styling options.
-#  title: "信仰与专注"
-#  icon: "fa fa-grin"
-#  content: "多学习，多看书，多思考，少说话！"
+message:
+  style: "is-dark" # See https://bulma.io/documentation/components/message/#colors for styling options.
+  title: "资源"
+  icon: "fa fa-grin"
+  content: "217.142.186.57,217.142.184.30,23.19.231.158,23.80.90.126,45.8.112.118,108.171.193.209,154.17.232.162,154.37.223.161,156.245.232.189,35.212.138.192,35.212.253.251,35.212.253.199<br/>2603:c02b:306:2377:a2a0:2a2e:2e22:ea22,2603:c02b:306:2377:a2a0:2a2e:2e22:ea77,2607:f5b4:88:105:1c00:1eff:fe00:38b,2607:f5b4:88:107:1c00:40ff:fe00:661,2a12:a304:4:21d::a,2607:f2d8:6065:10c6::a,2605:52c0:1:97f:cd:10ff:fe74:a0e8,2600:1900:4041:791:0:1::,2600:1900:4041:776::"
 
 
 # Optional navbar
