@@ -8,7 +8,7 @@ logo: "logo.png"
 # icon: "fas fa-skull-crossbones" # Optional icon
 
 header: true
-footer: '<p>ZHANG XU <span class="has-text-danger">❤️</span> with <a href="https://zxve.com/">ZXVE</a>, <a href="https://www.zxer.cn">About ME</a><i class="fab fa-github-alt"></i></a></p>' # set false if you want to hide it.
+footer: '<p>ZX <span class="has-text-danger">❤️</span> and <a href="https://zxve.com/">ZXVE</a>, <a href="https://www.zxer.cn">About ME</a><i class="fab fa-github-alt"></i></a></p>' # set false if you want to hide it.
 
 # Optional theme customization
 theme: default
