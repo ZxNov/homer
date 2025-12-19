@@ -72,7 +72,7 @@ links:
 # Leave only a "items" key if not using group (group name, icon & tagstyle are optional, section separation will not be displayed).
 services:
   - name: "Panel管理"
-    icon: "fa-solid fa-solar-panel"
+    icon: "fa-solid fa-sliders"
     items:
       - name: "panel.zxu.cc"
         icon: "fa-solid fa-cloud"
