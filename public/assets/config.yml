@@ -63,7 +63,7 @@ links:
     target: "_blank"
   - name: "Secret"
     icon: "fa fa-table-cells-row-lock"
-    url: "https://memos.zxme.de"
+    url: "https://memos.zxu.cc"
     target: "_blank"
     
   # this will link to a second homer page that will load config from additional-page.yml and keep default config values as in config.yml file
